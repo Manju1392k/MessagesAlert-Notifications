@@ -7,20 +7,6 @@
 
 ---
 
-# You can watch the entire video on our YouTube channel.
-
-## SM CTR is the name of the YouTube channel.
-
-### 👇 To view the entire video, click this icon. 
-
-<a href="https://www.youtube.com/watch?v=srAj0iUooZE">
-
-![youtube](https://user-images.githubusercontent.com/66934377/185027803-33520225-0da3-4eea-b6c1-86dbfc94fdd6.png)
-
-</a>
-
----
-
 # ⬇️ Code Downloading Process
 
 * There are 2 ways to get the code.
